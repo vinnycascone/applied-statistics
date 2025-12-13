@@ -13,6 +13,7 @@ Each problem directory contains code, explanations, and visualizations that answ
 
 The repository is organized into the following folders:
 
+- **Problems** - Notebook where all the problems have been merged
 - **Problem_1** — First statistical task (likely introductory simulation or basic inference)
 - **Problem_2** — Second task involving hypothesis testing or simulation
 - **Problem_3** — t-Test simulations and type II error analysis
