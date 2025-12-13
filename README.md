@@ -1,11 +1,11 @@
 # applied-statistics
-Assessment repository
+Assessment repository of Vincenzo Cascone G00439320, for Applied Statistics module at the ATU University
 
 # Applied Statistics — Assessment Repository
 
-This repository contains solutions to a set of applied statistics problems, implemented primarily using Python and Jupyter Notebooks. 
+This repository contains solutions to the applied statistics module problems, resolved using Python and Jupyter Notebooks. 
 
-Each problem directory contains code, explanations, and visualizations that answer specific statistical questions as part of the assessment the applied statistics course.
+Each problem directory contains code, explanations, and visualizations that answer specific statistical questions as part of the assessment of the applied statistics course.
 
 ---
 
